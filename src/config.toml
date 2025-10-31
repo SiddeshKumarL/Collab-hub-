@@ -1,0 +1,4 @@
+project_id = "szbybuvzanqjxwdryxiy"
+
+[functions.course-recommendations]
+verify_jwt = true
